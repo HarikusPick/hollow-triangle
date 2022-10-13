@@ -1,0 +1,8 @@
+D:\Users\Furkan\Desktop\C#\c#  örnekler\içi boş üçgen\içi boş üçgen\bin\Debug\içi boş üçgen.exe.config
+D:\Users\Furkan\Desktop\C#\c#  örnekler\içi boş üçgen\içi boş üçgen\bin\Debug\içi boş üçgen.exe
+D:\Users\Furkan\Desktop\C#\c#  örnekler\içi boş üçgen\içi boş üçgen\bin\Debug\içi boş üçgen.pdb
+D:\Users\Furkan\Desktop\C#\c#  örnekler\içi boş üçgen\içi boş üçgen\obj\Debug\içi boş üçgen.csproj.AssemblyReference.cache
+D:\Users\Furkan\Desktop\C#\c#  örnekler\içi boş üçgen\içi boş üçgen\obj\Debug\içi boş üçgen.csproj.SuggestedBindingRedirects.cache
+D:\Users\Furkan\Desktop\C#\c#  örnekler\içi boş üçgen\içi boş üçgen\obj\Debug\içi boş üçgen.csproj.CoreCompileInputs.cache
+D:\Users\Furkan\Desktop\C#\c#  örnekler\içi boş üçgen\içi boş üçgen\obj\Debug\içi boş üçgen.exe
+D:\Users\Furkan\Desktop\C#\c#  örnekler\içi boş üçgen\içi boş üçgen\obj\Debug\içi boş üçgen.pdb
